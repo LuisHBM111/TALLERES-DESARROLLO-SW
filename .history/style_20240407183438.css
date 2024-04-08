@@ -1,0 +1,24 @@
+h1{
+    color :aquamarine;
+    background-color : chocolate;
+}
+
+p{
+    text-align: justify;
+}
+
+.p1{
+    font-size: large;
+}
+
+#nose{
+    background-color: brown;
+}
+
+#col-md-auto col-lg-10{
+    size: 20;
+}
+
+a[href="https://twitter.com/nbuna_staff?lang=en"]{
+    color :chartreuse;
+}

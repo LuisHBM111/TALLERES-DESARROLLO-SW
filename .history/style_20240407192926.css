@@ -1,0 +1,15 @@
+p{
+    text-align: justify;
+}
+
+.p1{
+    font-size: large;
+}
+
+#col-md-auto col-lg-10{
+    size: 20;
+}
+body{
+    background-image : url('https://images.genius.com/7ea006f56aeacd6e760019552a2a826b.1000x1000x1.jpg');
+    color: #FFFFFF;
+}

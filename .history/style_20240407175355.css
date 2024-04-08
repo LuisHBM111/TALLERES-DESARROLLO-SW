@@ -1,0 +1,19 @@
+h1{
+    color :aquamarine;
+}
+
+p{
+    text-align: justify;
+}
+
+.p1{
+    font-size: large;
+}
+
+#nose{
+    background-color: brown;
+}
+
+a[href="https://twitter.com/nbuna_staff?lang=en"]{
+    color :chartreuse;
+}
